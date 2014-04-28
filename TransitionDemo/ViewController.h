@@ -8,6 +8,28 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+#import "AppDelegate.h"
+
+#import <CEReversibleAnimationController.h>
+#import <CEBaseInteractionController.h>
+
+
+
+@interface ViewController : UIViewController <UIViewControllerTransitioningDelegate>
+
+
+
+
+
+
+@property (nonatomic, strong) CEReversibleAnimationController *settingsAnimationController;
+
+
+
+
+
+
+
+
 
 @end
