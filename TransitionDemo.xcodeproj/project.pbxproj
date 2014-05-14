@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4A810B64192337AE00988CBB /* README.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4A810B63192337AE00988CBB /* README.txt */; };
 		4AC79384190A4D5A00D4F948 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4AC79383190A4D5A00D4F948 /* Foundation.framework */; };
 		4AC79386190A4D5A00D4F948 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4AC79385190A4D5A00D4F948 /* CoreGraphics.framework */; };
 		4AC79388190A4D5A00D4F948 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4AC79387190A4D5A00D4F948 /* UIKit.framework */; };
@@ -37,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4A810B63192337AE00988CBB /* README.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.txt; sourceTree = "<group>"; };
 		4AC79380190A4D5A00D4F948 /* TransitionDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TransitionDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4AC79383190A4D5A00D4F948 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		4AC79385190A4D5A00D4F948 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -92,6 +94,7 @@
 		4AC79377190A4D5A00D4F948 = {
 			isa = PBXGroup;
 			children = (
+				4A810B63192337AE00988CBB /* README.txt */,
 				4AC79389190A4D5A00D4F948 /* TransitionDemo */,
 				4AC793A8190A4D5A00D4F948 /* TransitionDemoTests */,
 				4AC79382190A4D5A00D4F948 /* Frameworks */,
@@ -248,6 +251,7 @@
 			files = (
 				4AC7939C190A4D5A00D4F948 /* Images.xcassets in Resources */,
 				4AC7938E190A4D5A00D4F948 /* InfoPlist.strings in Resources */,
+				4A810B64192337AE00988CBB /* README.txt in Resources */,
 				4AC79397190A4D5A00D4F948 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

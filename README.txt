@@ -1,0 +1,5 @@
+
+CocoaPods:
+
+
+pod 'VCTransitionsLibrary'
